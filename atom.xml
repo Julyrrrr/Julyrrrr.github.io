@@ -47,7 +47,7 @@
     <link href="http://example.com/2024/01/09/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
     <id>http://example.com/2024/01/09/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</id>
     <published>2024-01-09T08:38:36.000Z</published>
-    <updated>2024-01-10T04:43:02.734Z</updated>
+    <updated>2024-01-10T12:22:18.040Z</updated>
     
     <content type="html"><![CDATA[<p>参考网站<br><a href="https://www.bilibili.com/video/BV11a41127pt/?spm_id_from=333.880.my_history.page.click&vd_source=e257de9515afbb06c8a3a8ededdefd0d">https://www.bilibili.com/video/BV11a41127pt/?spm_id_from=333.880.my_history.page.click&amp;vd_source=e257de9515afbb06c8a3a8ededdefd0d</a></p><h2 id="博客更新步骤"><a href="#博客更新步骤" class="headerlink" title="博客更新步骤"></a>博客更新步骤</h2><p>hexo g 生成静态文件<br>hexo d 部署网页<br>如果失败，先hexo clean<br>shift+f5强制刷新浏览器缓存</p><h2 id="文字修改"><a href="#文字修改" class="headerlink" title="文字修改"></a>文字修改</h2><ul><li>语言切换</li><li>标题、副标题、描述文字</li></ul><h2 id="图片修改"><a href="#图片修改" class="headerlink" title="图片修改"></a>图片修改</h2><ul><li>背景</li></ul>]]></content>
     
@@ -57,7 +57,7 @@
     
     
     
-    <category term="’博客美化’" scheme="http://example.com/tags/%E2%80%99%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96%E2%80%99/"/>
+    <category term="博客美化" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
