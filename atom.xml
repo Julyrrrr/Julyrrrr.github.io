@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-10T12:22:18.040Z</updated>
+  <updated>2024-01-12T13:04:08.798Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二维光子晶体的COMSOL仿真</title>
+    <link href="http://example.com/2024/01/12/COMSOL%E4%BB%BF%E7%9C%9F1/"/>
+    <id>http://example.com/2024/01/12/COMSOL%E4%BB%BF%E7%9C%9F1/</id>
+    <published>2024-01-12T11:36:37.000Z</published>
+    <updated>2024-01-12T13:04:08.798Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h1><p>文章：<a href="https://www.nature.com/articles/nmat3030">Dirac cones induced by accidental degeneracy in photonic crystals and zero-refractive-index materials</a></p><p>复现的能带图如下</p><img src="/../../picture/COMSOL%E4%BB%BF%E7%9C%9F1/image-20240112201339411.png" alt="image-20240112201339411" style="zoom:50%;" /><h1 id="仿真文件下载"><a href="#仿真文件下载" class="headerlink" title="仿真文件下载"></a>仿真文件下载</h1><p>链接：<a href="https://pan.baidu.com/s/1HWvJ0kJfYcdJjYA_OhFBvg?pwd=nfd4">https://pan.baidu.com/s/1HWvJ0kJfYcdJjYA_OhFBvg?pwd=nfd4</a><br>提取码：nfd4<br>–来自百度网盘超级会员V3的分享</p>]]></content>
+    
+    
+    <summary type="html">二维光子晶体仿真</summary>
+    
+    
+    
+    
+    <category term="COMSOL仿真" scheme="http://example.com/tags/COMSOL%E4%BB%BF%E7%9C%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>个人博客美化</title>
