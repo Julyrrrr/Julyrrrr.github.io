@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-20T02:07:36.058Z</updated>
+  <updated>2024-05-20T02:11:41.598Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/05/20/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/"/>
     <id>http://example.com/2024/05/20/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/</id>
     <published>2024-05-20T02:03:23.000Z</published>
-    <updated>2024-05-20T02:07:36.058Z</updated>
+    <updated>2024-05-20T02:11:41.598Z</updated>
     
     <content type="html"><![CDATA[<p>格式-图像-设置根目录，设置为source文件夹</p><p>把图片放在source文件夹下</p><p>typora里插入图片即可</p><p>参考网址</p><p><a href="https://blog.csdn.net/Qxiaofei_/article/details/124629908">【Hexo】GitHub+Typora写博客+图片上传_hexo 上传图片-CSDN博客</a></p>]]></content>
     
@@ -47,7 +47,7 @@
     <link href="http://example.com/2024/05/20/WEEK-20-%E5%A4%8D%E7%9B%98/"/>
     <id>http://example.com/2024/05/20/WEEK-20-%E5%A4%8D%E7%9B%98/</id>
     <published>2024-05-19T16:00:00.000Z</published>
-    <updated>2024-05-20T02:09:12.923Z</updated>
+    <updated>2024-05-20T02:10:12.759Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/picture/WEEK-20-%E5%A4%8D%E7%9B%98/2024week20.png"></p>]]></content>
     
