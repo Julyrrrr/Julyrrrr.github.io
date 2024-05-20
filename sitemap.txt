@@ -1,10 +1,9 @@
-http://example.com/2024/05/20/2/
 http://example.com/2024/05/20/WEEK-20-%E5%A4%8D%E7%9B%98/
 http://example.com/2024/01/12/COMSOL%E4%BB%BF%E7%9C%9F1/
 http://example.com/tags/index.html
 http://example.com/2024/01/09/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/
 http://example.com/categories/index.html
 http://example.com/
-http://example.com/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/
-http://example.com/tags/COMSOL%E4%BB%BF%E7%9C%9F/
 http://example.com/tags/%E5%A4%8D%E7%9B%98/
+http://example.com/tags/COMSOL%E4%BB%BF%E7%9C%9F/
+http://example.com/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/
